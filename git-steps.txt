@@ -1,0 +1,4 @@
+git checkout dev_nikhil // to change to specific branch
+git add main2.py // add then space filename with extension
+git commit -m "Added New Text in main2.py" // commit -m add descripption regarding changes in file  in double quotes
+git push // push to send data to repo
