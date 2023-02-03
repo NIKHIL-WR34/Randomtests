@@ -4,3 +4,17 @@ git add main2.py // add then space filename with extension
 git commit -m "Added New Text in main2.py" // commit -m add descripption regarding changes in file  in double quotes
 git push --set -upstream origin dev_name // done only for the first push from newly created dev branch
 git push // push to send data to repo
+
+// To get latest files from git//
+nikhi@ROG-SCAR-15 MINGW64 /d/Code
+$ cd fy-mca-class-work
+
+nikhi@ROG-SCAR-15 MINGW64 /d/Code/fy-mca-class-work (master)
+$ git status
+
+nikhi@ROG-SCAR-15 MINGW64 /d/Code/fy-mca-class-work (master)
+$ git fetch
+
+$ git pull
+
+//-----------------------------------------------------------------------------------//
